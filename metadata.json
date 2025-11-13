@@ -1,0 +1,5 @@
+{
+  "name": "fifart",
+  "description": "A web application to display a FIFART poster, inspired by the work of Dibyanshu and others. It features a minimalist, full-screen design showcasing the artwork and credits.",
+  "requestFramePermissions": []
+}
