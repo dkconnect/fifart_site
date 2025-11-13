@@ -39,7 +39,7 @@ const App: React.FC = () => {
           </div>
 
           <footer>
-            <a href="http://fifart.art" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 text-base sm:text-lg uppercase tracking-widest group">
+            <a href="https://fifart-generation.vercel.app/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 text-base sm:text-lg uppercase tracking-widest group">
               <span>SEE ALL THE POSTERS</span>
               <ExternalLinkIcon className="w-6 h-6 transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
             </a>
